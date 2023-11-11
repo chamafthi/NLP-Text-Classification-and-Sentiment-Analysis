@@ -1,13 +1,5 @@
-# NLP-Text-Classification-and-Sentiment-Analysis
- 💡 🏠NLP project focusing on text classification and sentiment analysis tasks. It explores IMDb movie reviews and question topic analysis.
-
-Absolutely, here's a revised README with added emojis:
-
----
-
-# 📚 NLP Text Classification and Sentiment Analysis
-
-This repository includes a set of projects focused on Natural Language Processing (NLP), demonstrating text classification and sentiment analysis tasks across three notebooks.
+# 💡 🏠NLP-Text-Classification-and-Sentiment-Analysis
+ NLP project focusing on text classification and sentiment analysis tasks. It explores IMDb movie reviews and question topic analysis.
 
 ## 📓 Notebooks
 
@@ -45,7 +37,7 @@ Each notebook contains a comprehensive explanation of its workflow, from data pr
 3. Run Jupyter Notebooks to explore and execute the code.
 
 ## 👨‍💻 Contributor
-- [Your Name](link_to_profile)
+ [LinkedIn](https://www.linkedin.com/in/chaimae-elfathi/) | [GitHub](https://github.com/chamafthi)
+
 
 Feel free to explore the notebooks and reach out if you have any questions or suggestions!
- [LinkedIn](https://www.linkedin.com/in/chaimae-elfathi/) | [GitHub](https://github.com/chamafthi)
